@@ -1,5 +1,8 @@
 # SeedScanner
 
+
+![alt text](https://raw.githubusercontent.com/masiooIT/SeedScanner/main/seedscanner.webp)
+
 SeedScanner is a powerful tool designed to scan files on a selected drive for seed phrases and keywords. It supports various file types, including text files, PDFs, Office documents, images (with OCR support), and archives. The software allows users to customize their scanning options, such as file size limits and minimum image dimensions, making it a versatile and robust tool for security and data management tasks.
 
 ## Features
